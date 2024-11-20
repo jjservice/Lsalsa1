@@ -355,10 +355,7 @@ const songs = [
         "artist": "Tito Rojas",
         "img": "titoamarmepic.jpg",
         "music": "QUIERO Ser Tuyo  - Tito Rojas [Lyric Video].mp3"
-    }
-       
-    
-    
+    } 
          
  ];
  
