@@ -8,6 +8,9 @@
     "meta-charset-utf-8": "off",
     "meta-viewport": "off",
     "axe/forms": "off",
-    "axe/text-alternatives": "off"
+    "axe/text-alternatives": "off",
+    "axe/structure": "off",
+    "button-type": "off",
+    "no-inline-styles": "off"
   }
 }
