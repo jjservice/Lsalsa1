@@ -2,17 +2,17 @@
 const songs = [
     {
         "id": 1,
+        "name": "Hablame",
+        "artist": "Frankie Ruiz",
+        "img": "frankiepic2.jpg",
+        "music": "Frankie Ruiz-Hablame.mp3"
+    },
+    {
+        "id": 2,
         "name": "Ella Me Busca",
         "artist": "Yiyo Sarante",
         "img": "YiyoMeBuscaPic.jpg",
         "music": "Yiyo Sarante - Ella Me Busca.mp3"
-    },
-    {
-        "id": 2,
-        "name": "Qué Precio Tiene el Cielo",
-        "artist": "Marc Anthony",
-        "img": "markpic1.jpg",
-        "music": "Marc Anthony - Qué Precio Tiene el Cielo.mp3"
     },
     {
         "id": 3,
@@ -86,10 +86,10 @@ const songs = [
     },
     {
         "id": 13,
-        "name": "Hablame",
-        "artist": "Frankie Ruiz",
-        "img": "frankiepic2.jpg",
-        "music": "Frankie Ruiz-Hablame.mp3"
+        "name": "Qué Precio Tiene el Cielo",
+        "artist": "Marc Anthony",
+        "img": "markpic1.jpg",
+        "music": "Marc Anthony - Qué Precio Tiene el Cielo.mp3"
     },
     {
         "id": 14,
