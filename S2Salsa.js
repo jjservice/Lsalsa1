@@ -355,7 +355,14 @@ const songs = [
         "artist": "Tito Rojas",
         "img": "titoamarmepic.jpg",
         "music": "QUIERO Ser Tuyo  - Tito Rojas [Lyric Video].mp3"
-    } 
+    },
+    {
+        "id": 52,
+        "name": "Estar Enamorado",
+        "artist": "Ray De La Paz",
+        "img": "./EstarEnamoradoSalsaPic.jpg",
+        "music": "./Ray De La Paz - Estar Enamorado.mp3"
+    }  
 
      ];
      const searchInput = document.getElementById("search-input");
